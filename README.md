@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/harshjuly12/Cat-And-Dog-Image-Classification-Using-SVM/assets/112745312/9d95a622-e2f0-49bf-9e8d-5f82b8177e4d" width="80" style="margin-right: 10;"></td>
-    <td><h1 style="margin: 0;">Cat And Dog Image Classification Using SVM</h1></td>
+    <td><h1 style="margin: 0;">Cat & Dog Image Classification Using SVM</h1></td>
   </tr>
 </table>
 
